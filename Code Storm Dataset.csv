@@ -1,0 +1,201 @@
+price,discount_percent,avg_rating,num_reviews,delivery_time_days,customer_age,past_purchase_count,return_rate,time_spent_on_page,product_category,brand_tier,customer_region,device_used,payment_method,review_text,success_label
+311,66,3.1,250,9,35,5,0.03,423,Home,Budget,Urban,Mobile,Card,Value for money but quality poor,1
+377,8,4.8,86,6,28,30,0.01,457,Electronics,Premium,Semi-Urban,Desktop,Wallet,Fantastic experience overall,1
+265,63,3.5,337,8,33,27,0.29,134,Home,Mid,Rural,Mobile,COD,Works but not as advertised,1
+803,54,3.4,190,6,49,7,0.31,287,Beauty,Premium,Rural,Tablet,COD,Not bad but could improve,1
+1352,61,4.1,345,5,28,29,0.35,164,Beauty,Budget,Urban,Desktop,UPI,Best purchase ever,1
+903,18,3.5,296,7,22,20,0.27,226,Electronics,Mid,Semi-Urban,Desktop,UPI,Waste of money,1
+397,27,3.6,117,9,22,18,0.05,134,Sports,Mid,Semi-Urban,Desktop,Wallet,Works but not as advertised,1
+975,10,2,340,9,29,25,0.12,125,Clothing,Premium,Semi-Urban,Desktop,Card,"Top-notch quality, highly recommend",1
+1451,34,4.3,239,8,40,23,0.35,278,Sports,Premium,Semi-Urban,Desktop,COD,Good value for money,1
+1427,62,3.2,233,1,35,4,0.38,255,Electronics,Budget,Urban,Desktop,UPI,Best purchase ever,1
+373,46,2.8,350,9,28,24,0.09,438,Electronics,Budget,Urban,Mobile,UPI,Best purchase ever,1
+1109,27,4.5,162,2,24,18,0.09,501,Sports,Mid,Rural,Desktop,UPI,Waste of money,1
+629,29,4.7,308,3,32,11,0.04,274,Clothing,Premium,Semi-Urban,Mobile,COD,"Loved it, smooth usage",1
+489,41,4.4,107,3,47,14,0.05,245,Sports,Mid,Semi-Urban,Tablet,COD,Terrible stitching and fabric,1
+786,34,4.6,108,9,35,29,0.18,128,Home,Mid,Semi-Urban,Tablet,Card,Nice fragrance and long lasting,1
+1085,67,3.3,281,4,29,3,0.01,335,Beauty,Budget,Urban,Desktop,Card,"Cheap quality, not satisfied",1
+338,23,2.6,208,5,50,30,0.22,144,Home,Mid,Rural,Mobile,Card,Okay product nothing special,1
+862,51,4.4,227,8,18,18,0.39,488,Clothing,Premium,Rural,Mobile,COD,"Loved it, smooth usage",1
+1455,35,3.1,144,1,46,4,0.03,219,Electronics,Budget,Rural,Tablet,UPI,Average quality but decent price,1
+871,27,3.4,33,9,22,17,0.21,145,Sports,Mid,Semi-Urban,Mobile,COD,Good value for money,1
+839,61,3.8,28,9,28,27,0.35,477,Beauty,Budget,Urban,Tablet,COD,Fine but has minor issues,1
+1221,69,3.4,98,7,35,27,0.33,440,Home,Budget,Urban,Desktop,Card,"Loved it, smooth usage",1
+455,35,3.9,22,10,22,3,0.12,143,Home,Budget,Rural,Tablet,Card,Best purchase ever,1
+542,37,3.1,66,10,31,25,0.24,210,Home,Premium,Semi-Urban,Mobile,Card,Good value for money,1
+895,36,3.7,265,4,35,21,0.08,566,Sports,Budget,Urban,Tablet,UPI,Looks good but poor durability,1
+293,34,4.6,128,10,23,10,0.01,479,Clothing,Budget,Rural,Tablet,Card,Okay product nothing special,1
+886,52,2,137,2,48,30,0.26,432,Home,Budget,Rural,Mobile,COD,Terrible stitching and fabric,0
+937,57,4.4,304,10,40,11,0.26,260,Electronics,Premium,Rural,Mobile,Card,Product broke after 2 days,1
+295,46,2.9,164,9,30,18,0.15,273,Beauty,Premium,Urban,Desktop,UPI,Amazing performance and battery life,1
+866,35,3.6,292,6,40,20,0.32,524,Beauty,Budget,Rural,Mobile,COD,"Top-notch quality, highly recommend",1
+780,23,4.3,137,8,25,26,0.12,405,Home,Budget,Urban,Desktop,Card,Very bad quality cloth,1
+570,58,2.4,144,1,19,23,0.03,111,Clothing,Mid,Rural,Desktop,Wallet,Best purchase ever,1
+624,43,3.9,220,9,47,26,0.13,592,Beauty,Mid,Urban,Tablet,Wallet,Looks good but poor durability,1
+934,41,3.2,48,8,34,12,0.32,169,Home,Mid,Rural,Mobile,UPI,"Loved it, smooth usage",1
+1011,53,4.3,206,10,28,7,0.13,529,Clothing,Premium,Urban,Tablet,Wallet,Fantastic experience overall,1
+1283,54,3.9,288,5,29,12,0.07,591,Clothing,Mid,Urban,Mobile,COD,"Top-notch quality, highly recommend",1
+541,61,3.1,317,5,23,17,0.27,168,Sports,Premium,Rural,Desktop,Card,"Top-notch quality, highly recommend",1
+1271,34,4.5,336,9,42,1,0.14,464,Clothing,Mid,Rural,Mobile,COD,"Top-notch quality, highly recommend",1
+1450,11,2.6,147,1,34,25,0.22,215,Clothing,Premium,Semi-Urban,Mobile,Card,Fine but has minor issues,1
+824,8,4.1,79,9,49,15,0.34,185,Electronics,Premium,Rural,Tablet,Card,Fine but has minor issues,1
+339,26,5,338,4,32,26,0.12,304,Home,Mid,Urban,Desktop,UPI,"Top-notch quality, highly recommend",1
+1390,62,3,91,4,30,25,0.35,277,Sports,Budget,Urban,Desktop,Wallet,Amazing performance and battery life,1
+316,22,2.6,252,8,31,8,0.21,141,Clothing,Budget,Urban,Tablet,COD,Terrible stitching and fabric,1
+720,61,3.4,348,5,27,8,0.28,536,Electronics,Premium,Semi-Urban,Tablet,Wallet,Not bad but could improve,1
+841,9,3.2,260,4,40,1,0.25,115,Beauty,Budget,Urban,Mobile,UPI,Nice fragrance and long lasting,1
+1002,20,2.6,286,4,24,11,0.24,278,Sports,Premium,Semi-Urban,Tablet,Card,Not bad but could improve,1
+567,10,3.2,210,7,36,19,0.33,517,Electronics,Budget,Semi-Urban,Mobile,Card,Stopped working quickly,1
+1270,19,3.7,114,4,39,1,0.12,430,Electronics,Mid,Semi-Urban,Desktop,Wallet,Looks good but poor durability,1
+857,51,4.2,158,7,34,7,0.05,586,Electronics,Mid,Semi-Urban,Tablet,UPI,Amazing performance and battery life,1
+315,33,3.5,219,8,25,20,0.27,335,Home,Premium,Semi-Urban,Tablet,Wallet,Fine but has minor issues,1
+1249,23,3,110,4,24,29,0.14,127,Beauty,Budget,Rural,Tablet,COD,Product broke after 2 days,1
+1155,36,2.2,183,5,33,8,0.02,385,Electronics,Premium,Urban,Tablet,Wallet,Decent product but packaging poor,1
+970,22,3.2,316,5,23,10,0.01,208,Sports,Premium,Urban,Tablet,Wallet,Works but not as advertised,1
+1074,27,2.6,284,5,36,10,0.33,166,Clothing,Premium,Rural,Desktop,Card,Very bad quality cloth,1
+1215,69,3,70,2,29,19,0.16,538,Home,Budget,Rural,Mobile,Card,Works but not as advertised,1
+214,64,4.5,238,10,20,30,0.38,245,Electronics,Mid,Rural,Tablet,Card,Fine but has minor issues,1
+1206,35,3.2,334,9,38,22,0.3,557,Home,Premium,Semi-Urban,Tablet,Wallet,"Loved it, smooth usage",1
+1156,49,3.3,307,5,49,17,0.18,495,Clothing,Premium,Semi-Urban,Desktop,COD,Packaging was damaged and item faulty,1
+899,50,5,27,7,32,2,0.36,320,Sports,Premium,Urban,Tablet,UPI,Very bad quality cloth,1
+727,40,4.6,92,1,46,3,0.11,486,Home,Budget,Semi-Urban,Mobile,Card,Nice fragrance and long lasting,1
+377,29,3.9,299,1,24,20,0.29,506,Electronics,Budget,Urban,Tablet,Card,Waste of money,1
+905,7,2.1,248,10,46,8,0.34,246,Beauty,Budget,Urban,Mobile,Wallet,Waste of money,0
+543,16,4.4,298,5,46,8,0.4,395,Beauty,Budget,Semi-Urban,Mobile,COD,"Excellent product, very fast delivery",1
+1336,22,3.8,105,1,25,8,0.31,237,Sports,Budget,Rural,Tablet,COD,Packaging was damaged and item faulty,1
+210,44,3.6,135,2,23,9,0.34,110,Beauty,Premium,Urban,Mobile,Card,Works but not as advertised,1
+1467,62,3.6,165,5,18,9,0.29,356,Home,Mid,Urban,Desktop,Card,Product broke after 2 days,1
+784,63,3.9,68,2,32,17,0.24,472,Clothing,Premium,Semi-Urban,Tablet,Card,Decent product but packaging poor,1
+295,67,4.5,217,3,36,5,0.08,568,Home,Premium,Rural,Mobile,Wallet,Terrible stitching and fabric,1
+724,48,2.9,293,6,45,25,0.36,526,Home,Mid,Urban,Desktop,Wallet,Amazing performance and battery life,1
+956,36,3.4,228,8,20,26,0.23,212,Home,Mid,Urban,Mobile,COD,Expected better performance,1
+507,58,3.4,130,10,29,14,0.03,514,Home,Premium,Urban,Desktop,Wallet,Average quality but decent price,1
+381,42,4.1,124,8,32,28,0.03,411,Beauty,Mid,Urban,Mobile,Card,Looks good but poor durability,1
+742,38,3.3,165,1,45,5,0.21,214,Clothing,Mid,Semi-Urban,Desktop,COD,Product broke after 2 days,1
+292,46,3.3,342,10,32,3,0.03,268,Beauty,Premium,Semi-Urban,Mobile,Card,Not bad but could improve,1
+504,44,2.6,215,6,18,13,0.4,233,Clothing,Premium,Semi-Urban,Desktop,Wallet,"Top-notch quality, highly recommend",1
+463,68,3.4,262,8,33,11,0.2,355,Beauty,Mid,Semi-Urban,Mobile,Wallet,Very bad quality cloth,1
+516,60,2.9,327,1,29,5,0.28,275,Beauty,Premium,Rural,Mobile,Wallet,"Excellent product, very fast delivery",1
+235,40,3.5,281,1,18,15,0.38,398,Electronics,Premium,Rural,Mobile,Card,Amazing performance and battery life,1
+1278,21,3.8,125,3,19,28,0.05,145,Sports,Budget,Semi-Urban,Tablet,UPI,Good value for money,1
+680,56,3.8,82,8,46,12,0.32,557,Home,Budget,Rural,Tablet,Wallet,Works but not as advertised,1
+1278,43,3.1,341,9,31,15,0.36,256,Beauty,Budget,Semi-Urban,Tablet,Wallet,Fine but has minor issues,1
+456,38,4.7,166,5,32,22,0.32,372,Electronics,Budget,Urban,Desktop,COD,Stopped working quickly,1
+827,32,3.1,189,6,19,23,0.04,124,Sports,Budget,Semi-Urban,Desktop,Wallet,Packaging was damaged and item faulty,1
+289,15,3.9,52,7,21,6,0.04,128,Beauty,Mid,Urban,Mobile,Card,Product broke after 2 days,1
+485,67,3.9,223,4,44,6,0.07,123,Sports,Budget,Semi-Urban,Desktop,COD,"Top-notch quality, highly recommend",1
+1446,23,4.3,346,4,48,3,0.35,417,Beauty,Mid,Semi-Urban,Desktop,UPI,Terrible stitching and fabric,1
+642,30,2.4,275,2,20,25,0.05,103,Electronics,Budget,Semi-Urban,Tablet,Wallet,"Loved it, smooth usage",1
+358,11,4.7,192,9,40,23,0.09,213,Sports,Mid,Semi-Urban,Mobile,COD,Expected better performance,1
+426,57,2.5,46,9,44,13,0.2,427,Home,Premium,Urban,Tablet,Wallet,"Loved it, smooth usage",1
+570,41,4.3,49,7,50,29,0.37,559,Sports,Budget,Rural,Tablet,Wallet,Very bad quality cloth,1
+459,47,3.4,106,4,43,17,0.28,538,Electronics,Premium,Semi-Urban,Desktop,COD,Value for money but quality poor,1
+1484,14,4.9,275,1,27,11,0.34,508,Electronics,Mid,Rural,Tablet,Card,Value for money but quality poor,1
+1280,61,4.4,54,8,24,22,0.16,517,Sports,Premium,Urban,Tablet,Wallet,"Top-notch quality, highly recommend",1
+993,53,4.9,350,5,22,28,0.21,441,Sports,Budget,Semi-Urban,Tablet,COD,Not bad but could improve,1
+1379,7,2.1,257,9,28,28,0.16,547,Sports,Mid,Urban,Desktop,Card,Looks good but poor durability,1
+1473,57,3.8,139,6,33,5,0.27,505,Home,Premium,Semi-Urban,Desktop,Card,Product broke after 2 days,1
+901,51,4.9,280,6,21,15,0.14,389,Sports,Mid,Semi-Urban,Tablet,Card,"Cheap quality, not satisfied",1
+357,66,2.2,123,2,27,7,0.11,306,Beauty,Premium,Urban,Mobile,UPI,Good value for money,1
+1208,70,4.6,243,8,29,21,0.34,171,Home,Budget,Urban,Mobile,Wallet,Packaging was damaged and item faulty,1
+908,50,4.5,230,5,20,14,0.03,443,Electronics,Mid,Semi-Urban,Mobile,Card,Product broke after 2 days,1
+665,46,2.4,336,7,20,23,0.13,450,Clothing,Budget,Semi-Urban,Desktop,Wallet,Waste of money,0
+1041,14,4.1,288,2,25,17,0.27,571,Beauty,Mid,Rural,Desktop,UPI,Best purchase ever,1
+1340,47,2.2,168,8,41,17,0.04,332,Beauty,Budget,Urban,Mobile,Wallet,Best purchase ever,1
+286,45,4.8,318,8,40,23,0.31,510,Home,Budget,Rural,Mobile,Card,Product broke after 2 days,1
+927,51,3.8,40,3,22,5,0.03,164,Electronics,Premium,Semi-Urban,Desktop,COD,"Loved it, smooth usage",1
+534,41,3,70,2,39,26,0.09,574,Clothing,Mid,Urban,Tablet,UPI,"Cheap quality, not satisfied",1
+328,40,3.1,254,9,41,13,0.08,539,Home,Budget,Urban,Tablet,Card,Okay product nothing special,1
+837,64,3,116,10,34,19,0.09,349,Beauty,Budget,Urban,Mobile,Wallet,Good value for money,1
+1333,23,3.6,171,9,25,10,0.25,286,Home,Budget,Semi-Urban,Tablet,Card,"Top-notch quality, highly recommend",1
+301,64,4.4,289,7,37,17,0.1,174,Home,Mid,Rural,Mobile,Wallet,Works but not as advertised,1
+429,20,3.2,113,1,36,2,0.28,484,Home,Premium,Rural,Desktop,Wallet,Very bad quality cloth,1
+1236,52,2,68,2,33,25,0.04,359,Clothing,Premium,Semi-Urban,Mobile,COD,"Excellent product, very fast delivery",1
+1181,21,3.7,210,3,33,9,0.31,284,Home,Budget,Urban,Desktop,Card,Product broke after 2 days,1
+482,43,3.2,34,2,50,3,0.26,488,Home,Premium,Rural,Mobile,Wallet,Product broke after 2 days,1
+1248,18,2.8,249,9,44,4,0.29,521,Beauty,Mid,Rural,Mobile,Card,Expected better performance,1
+326,46,3.7,108,2,22,10,0.32,582,Clothing,Budget,Rural,Mobile,Card,Packaging was damaged and item faulty,1
+786,62,3.2,21,7,40,22,0.35,148,Electronics,Budget,Rural,Desktop,Wallet,"Cheap quality, not satisfied",0
+814,46,2.3,322,2,23,28,0.4,209,Sports,Budget,Rural,Tablet,Card,Best purchase ever,0
+629,41,4,80,5,22,20,0.11,129,Electronics,Premium,Rural,Tablet,COD,Average quality but decent price,1
+353,56,2.2,103,4,25,7,0.2,152,Sports,Budget,Rural,Mobile,Wallet,Good value for money,1
+257,33,2.2,170,5,45,22,0.12,132,Home,Budget,Semi-Urban,Mobile,Wallet,Works but not as advertised,1
+310,7,2.8,66,6,30,27,0.4,410,Sports,Premium,Semi-Urban,Mobile,Wallet,"Top-notch quality, highly recommend",1
+531,55,3.1,250,7,46,3,0.28,287,Clothing,Mid,Urban,Desktop,Wallet,Decent product but packaging poor,1
+701,17,5,150,6,21,2,0.22,322,Sports,Budget,Urban,Mobile,COD,"Loved it, smooth usage",1
+247,52,4.5,341,10,21,13,0.19,465,Electronics,Premium,Urban,Mobile,Wallet,Expected better performance,1
+759,39,2.5,130,7,21,10,0.26,550,Sports,Premium,Semi-Urban,Tablet,Card,Best purchase ever,1
+949,31,4,254,8,31,5,0.4,279,Sports,Budget,Rural,Mobile,UPI,Fantastic experience overall,1
+1096,34,2.9,29,1,33,6,0.4,452,Home,Mid,Urban,Mobile,UPI,Waste of money,1
+669,35,3.6,43,5,25,23,0.24,120,Home,Mid,Urban,Desktop,Card,Fantastic experience overall,1
+1141,63,4.6,123,3,30,19,0.13,253,Home,Premium,Urban,Tablet,COD,Very bad quality cloth,1
+459,6,2.6,242,5,30,23,0.21,460,Clothing,Premium,Semi-Urban,Desktop,COD,Expected better performance,1
+609,55,2.6,42,7,36,8,0.35,587,Beauty,Premium,Urban,Tablet,Card,Average quality but decent price,1
+1463,32,2.3,129,3,26,8,0.33,459,Sports,Budget,Rural,Mobile,Wallet,Best purchase ever,1
+894,50,3.6,209,8,47,14,0.15,501,Clothing,Mid,Urban,Mobile,Card,Decent product but packaging poor,1
+1491,10,4.3,148,3,41,29,0.06,538,Beauty,Budget,Urban,Tablet,Card,Product broke after 2 days,1
+1287,40,3.8,348,4,49,11,0.32,432,Home,Budget,Rural,Tablet,Card,"Top-notch quality, highly recommend",1
+736,42,3.1,145,5,39,3,0.12,508,Clothing,Budget,Rural,Desktop,Wallet,Expected better performance,1
+1419,65,2.3,319,3,26,23,0.01,186,Clothing,Budget,Urban,Desktop,UPI,Okay product nothing special,1
+1040,36,4.2,74,5,44,24,0.29,219,Electronics,Budget,Rural,Tablet,COD,Nice fragrance and long lasting,1
+726,36,3.9,273,4,36,10,0.05,387,Clothing,Premium,Rural,Desktop,Card,Nice fragrance and long lasting,1
+983,57,3.3,160,5,45,17,0.19,163,Electronics,Budget,Semi-Urban,Desktop,Wallet,Waste of money,1
+1185,55,4,77,4,49,13,0.16,511,Clothing,Mid,Urban,Tablet,Card,"Loved it, smooth usage",1
+788,38,4.4,25,6,49,14,0.07,149,Home,Premium,Urban,Tablet,Wallet,Okay product nothing special,1
+559,17,2.1,34,2,20,11,0.11,459,Clothing,Budget,Rural,Mobile,COD,Fine but has minor issues,1
+370,32,4.5,175,10,27,25,0.21,317,Electronics,Mid,Semi-Urban,Mobile,Card,Fantastic experience overall,1
+1213,58,4.4,21,2,40,16,0.26,204,Electronics,Budget,Urban,Tablet,COD,"Loved it, smooth usage",1
+392,54,5,41,6,20,29,0.3,242,Clothing,Mid,Semi-Urban,Mobile,UPI,"Excellent product, very fast delivery",1
+698,48,2.2,100,10,36,2,0.35,539,Electronics,Mid,Urban,Mobile,COD,Works but not as advertised,0
+1200,70,2.9,125,2,48,14,0.38,131,Home,Premium,Urban,Tablet,Wallet,Expected better performance,1
+367,65,2.5,53,2,37,2,0.12,144,Clothing,Budget,Urban,Tablet,COD,Product broke after 2 days,1
+309,29,3.4,180,4,23,10,0.04,287,Home,Premium,Rural,Mobile,COD,Expected better performance,1
+1129,53,3,225,10,18,10,0.24,436,Beauty,Premium,Rural,Tablet,COD,Fine but has minor issues,1
+929,21,3.4,57,7,45,6,0.02,123,Home,Premium,Semi-Urban,Desktop,COD,Value for money but quality poor,1
+844,10,2.6,136,8,47,21,0.15,406,Sports,Budget,Semi-Urban,Desktop,Wallet,Looks good but poor durability,1
+486,17,2.4,81,5,34,13,0.28,227,Electronics,Premium,Urban,Desktop,UPI,Fantastic experience overall,1
+1207,70,4,70,1,50,9,0.28,524,Sports,Budget,Urban,Mobile,Wallet,Stopped working quickly,1
+382,65,2.5,266,1,37,5,0.04,198,Beauty,Premium,Semi-Urban,Tablet,UPI,"Cheap quality, not satisfied",1
+815,14,2.2,327,6,34,11,0.28,318,Sports,Premium,Semi-Urban,Mobile,Wallet,Decent product but packaging poor,1
+270,16,2.5,304,4,26,23,0.4,129,Electronics,Budget,Rural,Mobile,COD,"Cheap quality, not satisfied",0
+712,65,4.2,135,7,32,13,0.3,244,Home,Budget,Semi-Urban,Tablet,COD,Fine but has minor issues,1
+1430,38,3.6,223,3,46,29,0.07,298,Home,Premium,Semi-Urban,Tablet,Card,Okay product nothing special,1
+438,64,3.3,183,9,42,21,0.23,485,Beauty,Premium,Rural,Mobile,Card,Fine but has minor issues,1
+340,27,4.2,256,8,28,19,0.04,468,Electronics,Premium,Rural,Mobile,Wallet,Not bad but could improve,1
+421,60,3.7,244,6,29,3,0.13,120,Home,Premium,Urban,Mobile,Wallet,Best purchase ever,1
+1339,29,5,154,5,23,26,0.07,481,Home,Premium,Semi-Urban,Mobile,Wallet,Decent product but packaging poor,1
+792,65,2.6,310,7,30,14,0.07,177,Home,Mid,Rural,Mobile,COD,Packaging was damaged and item faulty,1
+813,47,2.9,49,4,30,2,0.38,400,Home,Mid,Rural,Tablet,COD,Nice fragrance and long lasting,1
+952,19,4.8,164,3,37,4,0.1,533,Beauty,Budget,Rural,Tablet,COD,Waste of money,1
+1083,7,3.2,123,9,45,27,0.33,365,Sports,Premium,Rural,Tablet,UPI,"Top-notch quality, highly recommend",1
+1424,37,3.6,300,8,22,29,0.38,382,Home,Mid,Rural,Desktop,COD,Okay product nothing special,1
+406,33,4.7,241,2,23,2,0.08,410,Beauty,Budget,Semi-Urban,Mobile,Wallet,Very bad quality cloth,1
+203,43,4.2,190,8,36,2,0.09,545,Electronics,Mid,Rural,Desktop,Wallet,Not bad but could improve,1
+1421,49,4,348,7,30,13,0.3,218,Clothing,Premium,Urban,Desktop,Wallet,Waste of money,1
+592,26,3.8,199,3,41,21,0.05,498,Beauty,Mid,Rural,Desktop,COD,"Top-notch quality, highly recommend",1
+217,9,4.6,330,5,36,10,0.17,202,Beauty,Mid,Semi-Urban,Mobile,Card,Best purchase ever,1
+1430,66,4.9,133,4,29,2,0.13,107,Sports,Premium,Urban,Desktop,Card,"Loved it, smooth usage",1
+959,11,2.5,260,4,50,16,0.2,398,Electronics,Mid,Rural,Desktop,Card,Very bad quality cloth,1
+1399,39,2.1,305,5,42,3,0.3,440,Beauty,Mid,Semi-Urban,Desktop,Wallet,Average quality but decent price,1
+301,50,4.9,320,9,20,25,0.36,210,Beauty,Mid,Rural,Tablet,UPI,Value for money but quality poor,1
+271,45,2.5,294,7,26,4,0.27,141,Electronics,Mid,Semi-Urban,Tablet,Wallet,Expected better performance,1
+369,40,4,115,2,29,21,0.06,586,Clothing,Mid,Semi-Urban,Mobile,UPI,Good value for money,1
+564,57,4.9,80,7,45,30,0.08,497,Beauty,Mid,Urban,Mobile,Wallet,Decent product but packaging poor,1
+209,57,5,137,5,49,5,0.26,436,Electronics,Premium,Semi-Urban,Mobile,Card,Average quality but decent price,1
+1027,55,4.3,329,7,37,26,0.4,417,Electronics,Mid,Rural,Desktop,UPI,Packaging was damaged and item faulty,1
+676,61,2.4,80,4,33,11,0.29,268,Home,Mid,Rural,Tablet,UPI,Works but not as advertised,0
+723,55,4.2,109,3,24,26,0.19,352,Electronics,Premium,Semi-Urban,Tablet,COD,Waste of money,1
+231,49,4.7,285,3,39,13,0.27,173,Electronics,Budget,Semi-Urban,Desktop,Card,Packaging was damaged and item faulty,1
+338,37,4.4,228,2,37,8,0.31,171,Clothing,Budget,Urban,Mobile,Card,Amazing performance and battery life,1
+1472,25,4.8,271,8,30,10,0.35,279,Home,Mid,Urban,Tablet,Card,Best purchase ever,1
+1054,22,2.4,167,1,29,15,0.3,498,Home,Mid,Rural,Desktop,Wallet,"Cheap quality, not satisfied",0
+539,47,2.1,61,8,34,2,0.4,219,Home,Premium,Rural,Desktop,Card,Packaging was damaged and item faulty,0
+1136,24,2.4,102,7,21,7,0.06,152,Electronics,Mid,Urban,Desktop,COD,"Loved it, smooth usage",1
+789,65,3.7,257,8,22,12,0.22,548,Electronics,Mid,Rural,Mobile,Wallet,Fantastic experience overall,1
+1196,65,2.5,180,4,35,19,0.2,497,Home,Budget,Urban,Tablet,UPI,Product broke after 2 days,0
+1146,26,3.6,180,7,43,9,0.1,240,Electronics,Mid,Urban,Mobile,UPI,Decent product but packaging poor,1
+598,16,4,228,10,45,29,0.3,280,Clothing,Mid,Urban,Desktop,COD,Very bad quality cloth,1
+1434,47,2,291,5,45,7,0.32,139,Clothing,Budget,Semi-Urban,Tablet,UPI,Best purchase ever,0
+1037,58,2.9,187,4,26,6,0.28,549,Beauty,Budget,Urban,Desktop,UPI,Product broke after 2 days,0
+422,14,3.1,45,8,42,25,0.34,312,Home,Budget,Urban,Desktop,Wallet,Expected better performance,1
+339,20,3.2,186,5,28,13,0.27,196,Beauty,Budget,Semi-Urban,Mobile,COD,Decent product but packaging poor,1
