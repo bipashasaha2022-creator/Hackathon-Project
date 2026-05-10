@@ -166,7 +166,7 @@ requirements.txt
 pip install -r requirements.txt
 
 ## Conclusion
-This project shows how clear and accurate analysis with a sample prediction
+This project shows how clear and accurate analysis with a sample prediction for e-commerce sales using python
 
 ## Author
 Bipasha Saha
